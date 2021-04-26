@@ -1,0 +1,2312 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:13,847 --> 00:00:16,099
+[IZUKU] Beneath our flashy
+superhero society
+
+3
+00:00:16,141 --> 00:00:18,435
+lurks a dark underworld.
+
+4
+00:00:18,477 --> 00:00:21,021
+Every time we've driven
+the villains back,
+
+5
+00:00:21,063 --> 00:00:23,732
+they've retreated to the
+safety of the shadows,
+
+6
+00:00:23,774 --> 00:00:26,068
+regaining their strength.
+
+7
+00:00:26,109 --> 00:00:28,820
+Waiting for the perfect
+time to strike.
+
+8
+00:00:30,489 --> 00:00:32,449
+[SHIGARAKI]
+The Master is good.
+
+9
+00:00:32,491 --> 00:00:35,452
+I tried so hard to find out
+where those idiots were going,
+
+10
+00:00:35,494 --> 00:00:37,704
+and he figured it out
+in an instant.
+
+11
+00:00:37,746 --> 00:00:39,873
+Guess he really showed me up.
+
+12
+00:00:39,915 --> 00:00:41,959
+[KUROGIRI] It was worth
+having a team on standby,
+
+13
+00:00:41,959 --> 00:00:44,586
+then, wasn't it?
+Tomura Shigaraki.
+
+14
+00:00:44,628 --> 00:00:47,548
+[SHIGARAKI]
+Hmph. I guess.
+
+15
+00:00:47,589 --> 00:00:50,175
+[door bell chimes]
+
+16
+00:00:50,217 --> 00:00:51,927
+[GIRAN] I heard back
+from the union today.
+
+17
+00:00:51,969 --> 00:00:54,429
+You can expect
+a delivery tomorrow.
+
+18
+00:00:54,471 --> 00:00:57,432
+It was thrown together quickly,
+so it might not look like much.
+
+19
+00:00:57,474 --> 00:00:59,601
+But quality is guaranteed.
+
+20
+00:00:59,643 --> 00:01:01,144
+[KUROGIRI]
+I must apologize for making
+
+21
+00:01:01,186 --> 00:01:03,522
+such an unreasonable request.
+
+22
+00:01:03,564 --> 00:01:05,440
+Tell me, Shigaraki.
+
+23
+00:01:05,482 --> 00:01:07,067
+Do you know why
+the union accepted
+
+24
+00:01:07,109 --> 00:01:10,028
+this outlandish order of yours?
+
+25
+00:01:10,070 --> 00:01:12,906
+'Cause everyone's got
+high expectations of you.
+
+26
+00:01:12,948 --> 00:01:14,741
+If the League of Villains
+steps into the light,
+
+27
+00:01:14,783 --> 00:01:17,953
+then the scum hiding on the
+sidelines will follow suit.
+
+28
+00:01:17,995 --> 00:01:21,081
+And if that happens, it means
+brokers like me win big.
+
+29
+00:01:21,123 --> 00:01:23,041
+We'll be rolling
+in new customers.
+
+30
+00:01:23,083 --> 00:01:24,585
+Crime pays.
+
+31
+00:01:24,626 --> 00:01:25,961
+[SHIGARAKI]
+Oh, yes.
+
+32
+00:01:26,003 --> 00:01:28,714
+You're gonna be so busy,
+you won't be able to keep up.
+
+33
+00:01:28,755 --> 00:01:31,258
+[GIRAN chuckles]
+I'm looking forward to that.
+
+34
+00:01:31,300 --> 00:01:33,176
+Anyway, thanks.
+
+35
+00:01:35,554 --> 00:01:37,347
+[SHIGARAKI]
+The board is set with my pawns
+
+36
+00:01:37,389 --> 00:01:39,224
+and their prey.
+
+37
+00:01:39,266 --> 00:01:43,437
+Finally. Time for the
+real game to begin.
+
+38
+00:01:45,188 --> 00:01:46,815
+[IZUKU]
+Welcome to UA High,
+
+39
+00:01:46,857 --> 00:01:48,358
+the prestigious school
+that's turned out
+
+40
+00:01:48,400 --> 00:01:50,861
+some of the world's
+greatest heroes.
+
+41
+00:01:50,902 --> 00:01:53,030
+I'm running toward
+my dream in these halls.
+
+42
+00:01:53,071 --> 00:01:55,157
+Learning to overcome
+obstacles and save people
+
+43
+00:01:55,198 --> 00:01:57,659
+with a smile on my face.
+
+44
+00:01:57,701 --> 00:02:00,662
+That's how I'll become the
+greatest hero in the world!
+
+45
+00:03:36,299 --> 00:03:37,175
+[AIZAWA]
+Now that you've finished up
+
+46
+00:03:37,217 --> 00:03:38,844
+your first semester at UA High,
+
+47
+00:03:38,885 --> 00:03:42,556
+it's time for summer vacation
+to officially begin.
+
+48
+00:03:42,597 --> 00:03:44,141
+However...
+
+49
+00:03:44,182 --> 00:03:46,017
+Don't think these
+will be months of rest
+
+50
+00:03:46,059 --> 00:03:48,103
+for you heroes‐in‐the‐making.
+
+51
+00:03:48,145 --> 00:03:48,854
+At this camp,
+
+52
+00:03:48,895 --> 00:03:51,231
+we'll push you to
+go beyond your limits.
+
+53
+00:03:51,273 --> 00:03:53,817
+You're aiming to
+become "Plus Ultra!"
+
+54
+00:03:53,859 --> 00:03:55,068
+[STUDENTS]
+Yes, sir!
+
+55
+00:03:55,110 --> 00:03:56,194
+I'm so psyched!
+
+56
+00:03:56,236 --> 00:03:58,739
+I've been looking forward to
+this camp all semester, Deku!
+
+57
+00:03:58,780 --> 00:04:01,575
+Oh, yeah! It's
+definitely close, huh?
+
+58
+00:04:01,616 --> 00:04:03,201
+[IZUKU]
+So close!
+
+59
+00:04:03,243 --> 00:04:04,327
+[OCHACO]
+Hey, what's the matter?
+
+60
+00:04:04,369 --> 00:04:05,871
+I'm just a little hot!
+
+61
+00:04:05,912 --> 00:04:07,080
+Huh?
+
+62
+00:04:07,122 --> 00:04:08,081
+[gasps]
+
+63
+00:04:08,123 --> 00:04:09,958
+[AOYAMA]
+Is it because you like him?
+
+64
+00:04:11,877 --> 00:04:13,712
+Uh. Let's hear it for camp!
+
+65
+00:04:13,754 --> 00:04:16,798
+[OCHACO, KAMINARI, ASHIDO]
+Yeah! Camp! Camp! Camp! Camp!
+
+66
+00:04:16,840 --> 00:04:20,010
+[IZUKU] Wow. Uraraka and
+the others sure are excited.
+
+67
+00:04:20,051 --> 00:04:22,679
+I heard some of Class A
+is taking extra courses.
+
+68
+00:04:22,721 --> 00:04:25,974
+Does that mean they actually
+failed the final exams?
+
+69
+00:04:26,016 --> 00:04:27,642
+That must be so embarrassing.
+
+70
+00:04:27,684 --> 00:04:28,977
+Especially since you're
+supposed to be
+
+71
+00:04:29,019 --> 00:04:30,479
+so much better than my class.
+
+72
+00:04:30,520 --> 00:04:32,898
+All of you must be
+wallowing in shame!
+
+73
+00:04:34,733 --> 00:04:35,859
+Don't mind him!
+
+74
+00:04:35,901 --> 00:04:37,360
+[IZUKU]
+Uh... Heh...
+
+75
+00:04:37,402 --> 00:04:39,488
+Monoma's scary.
+
+76
+00:04:39,529 --> 00:04:41,490
+Oh. The rest of Class B!
+
+77
+00:04:41,531 --> 00:04:43,950
+It's nice to see you outside
+of the sports festival.
+
+78
+00:04:43,992 --> 00:04:46,995
+I guess now we're not
+technically rivals.
+
+79
+00:04:47,037 --> 00:04:48,663
+Time to get on the bus.
+
+80
+00:04:48,705 --> 00:04:49,706
+[TSUNOTORI, YANAGI]
+Okay!
+
+81
+00:04:49,748 --> 00:04:51,541
+[GIRLS giggling]
+
+82
+00:04:51,583 --> 00:04:55,337
+[MINETA] The girls of
+Class A and Class B.
+
+83
+00:04:55,378 --> 00:04:57,547
+It's like a buffet
+of bombshells!
+
+84
+00:04:57,589 --> 00:04:59,049
+Dude, get yourself together.
+
+85
+00:04:59,090 --> 00:04:59,966
+For real.
+
+86
+00:05:00,008 --> 00:05:02,302
+[TENYA] Attention, Class A,
+our bus is here.
+
+87
+00:05:02,344 --> 00:05:04,763
+Everyone line up
+in seating order!
+
+88
+00:05:06,223 --> 00:05:07,098
+[AIZAWA]
+Here's the deal.
+
+89
+00:05:07,140 --> 00:05:09,726
+We'll be on this bus about
+an hour before our first stop.
+
+90
+00:05:09,768 --> 00:05:11,228
+Make sure you stay focused.
+
+91
+00:05:11,269 --> 00:05:12,604
+Why aren't we
+blastin' some music?
+
+92
+00:05:12,646 --> 00:05:14,064
+[TENYA]
+No one should be standing!
+
+93
+00:05:14,105 --> 00:05:16,566
+That is a safety hazard!
+Please stay seated!
+
+94
+00:05:16,608 --> 00:05:18,568
+[STUDENTS chattering]
+
+95
+00:05:18,610 --> 00:05:19,903
+Why do I bother?
+
+96
+00:05:19,945 --> 00:05:21,404
+Well, I guess this
+is the only time
+
+97
+00:05:21,446 --> 00:05:22,739
+they'll have to fool around.
+
+98
+00:05:22,781 --> 00:05:24,324
+[TENYA]
+Do not open that window!
+
+99
+00:05:32,290 --> 00:05:34,459
+[KAMINARI]
+Finally. I needed off that bus.
+
+100
+00:05:34,501 --> 00:05:35,919
+[MINETA]
+Let me get through, I gotta pee!
+
+101
+00:05:35,961 --> 00:05:38,547
+[KIRISHIMA] Huh. This isn't
+much of a rest area.
+
+102
+00:05:38,588 --> 00:05:40,298
+[JIRO]
+No. And where's Class B?
+
+103
+00:05:40,340 --> 00:05:41,633
+You don't really think
+we stopped here
+
+104
+00:05:41,675 --> 00:05:43,802
+just so you could stretch
+your legs, do you?
+
+105
+00:05:43,844 --> 00:05:45,470
+[JIRO, OCHACO gasp]
+
+106
+00:05:45,512 --> 00:05:47,973
+Please, sir, the toilet.
+
+107
+00:05:48,014 --> 00:05:49,808
+[MANDALAY]
+Heya, Eraser!
+
+108
+00:05:49,850 --> 00:05:51,560
+[AIZAWA]
+Long time no see.
+
+109
+00:05:52,894 --> 00:05:54,938
+Your feline fantasies are here.
+
+110
+00:05:54,980 --> 00:05:56,231
+Say, "meow."
+
+111
+00:05:56,273 --> 00:05:58,900
+Purrfectly cute
+and catlike girls!
+
+112
+00:05:58,942 --> 00:06:00,068
+[PIXIE‐BOB, MANDALAY]
+You can call us
+
+113
+00:06:00,110 --> 00:06:03,822
+the Wild, Wild Pussycats!
+
+114
+00:06:05,866 --> 00:06:07,242
+[AIZAWA] These are the
+pro heroes you'll be
+
+115
+00:06:07,284 --> 00:06:09,202
+working with at the
+summer training camp.
+
+116
+00:06:09,244 --> 00:06:10,620
+[IZUKU]
+They're a four‐person hero team
+
+117
+00:06:10,662 --> 00:06:12,789
+who specialize in
+mountain rescues!
+
+118
+00:06:12,831 --> 00:06:14,708
+The Pussycats were founded
+when we were kids,
+
+119
+00:06:14,749 --> 00:06:16,209
+‐‐like forever ago!
+‐‐[PIXIE‐BOB, MANDALAY gasp]
+
+120
+00:06:16,251 --> 00:06:18,837
+This marks their
+12th year working as a‐‐
+
+121
+00:06:18,879 --> 00:06:22,215
+I'm pretty sure your
+math must be off.
+
+122
+00:06:22,257 --> 00:06:23,758
+I'm 18 at heart.
+
+123
+00:06:23,800 --> 00:06:25,218
+[IZUKU]
+Understood!
+
+124
+00:06:25,260 --> 00:06:26,887
+[KIRISHIMA, KAMINARI]
+That's so sad.
+
+125
+00:06:26,928 --> 00:06:28,847
+[AIZAWA]
+Everyone, say hello.
+
+126
+00:06:28,889 --> 00:06:31,808
+[STUDENTS]
+Hello! Nice to meet you!
+
+127
+00:06:31,850 --> 00:06:33,727
+[MANDALAY] We own this whole
+stretch of land out here.
+
+128
+00:06:33,768 --> 00:06:35,437
+Everything you can see.
+
+129
+00:06:35,478 --> 00:06:36,855
+The summer camp
+you're staying at
+
+130
+00:06:36,897 --> 00:06:38,690
+is there at the base
+of the mountain.
+
+131
+00:06:38,732 --> 00:06:39,941
+[STUDENTS]
+That's far!
+
+132
+00:06:39,983 --> 00:06:40,650
+Uh.
+
+133
+00:06:40,692 --> 00:06:43,320
+Then why did we stop
+all the way up here instead?
+
+134
+00:06:43,361 --> 00:06:45,405
+I'm afraid we both know
+the answer to that.
+
+135
+00:06:45,447 --> 00:06:46,740
+That can't be right.
+
+136
+00:06:46,781 --> 00:06:49,492
+[SERO laughs nervously]
+Um. Back on the bus.
+
+137
+00:06:49,534 --> 00:06:51,036
+Quick. Let's go.
+
+138
+00:06:51,077 --> 00:06:53,997
+Good idea. Load up.
+
+139
+00:06:54,039 --> 00:06:57,167
+The current time is
+9:30 in the morning.
+
+140
+00:06:57,208 --> 00:07:00,587
+If you're fast about it,
+you might make it there by noon.
+
+141
+00:07:00,629 --> 00:07:02,339
+No way. Guys!
+
+142
+00:07:02,380 --> 00:07:03,340
+Holy crap!
+
+143
+00:07:03,381 --> 00:07:05,634
+Save yourselves!
+
+144
+00:07:05,675 --> 00:07:07,636
+Kitties who don't
+make it there by 12:30
+
+145
+00:07:07,677 --> 00:07:08,887
+won't get any lunch.
+
+146
+00:07:08,929 --> 00:07:10,722
+[AIZAWA] You should
+have guessed, students.
+
+147
+00:07:10,764 --> 00:07:12,807
+The training camp...
+
+148
+00:07:12,849 --> 00:07:15,268
+‐‐[STUDENTS gasp]
+‐‐...has already begun.
+
+149
+00:07:17,103 --> 00:07:18,939
+[STUDENTS yelping]
+
+150
+00:07:18,980 --> 00:07:20,357
+[OCHACO]
+What the heck?
+
+151
+00:07:20,398 --> 00:07:22,734
+[IZUKU] She must be
+controlling the ground!
+
+152
+00:07:22,776 --> 00:07:27,822
+[STUDENTS screaming]
+
+153
+00:07:28,782 --> 00:07:29,991
+[MANDALAY]
+Good news!
+
+154
+00:07:30,033 --> 00:07:31,284
+Since this is private land,
+
+155
+00:07:31,326 --> 00:07:33,828
+you can use your Quirks
+as much as you want to.
+
+156
+00:07:33,870 --> 00:07:35,497
+You've got three full hours.
+
+157
+00:07:35,538 --> 00:07:38,333
+You should be able to make it
+to the facility in that time.
+
+158
+00:07:38,375 --> 00:07:41,086
+That is, if you can get
+through The Beast's Forest.
+
+159
+00:07:41,127 --> 00:07:42,879
+[STUDENTS gasp]
+
+160
+00:07:42,921 --> 00:07:44,506
+[IZUKU]
+The Beast's Forest?!
+
+161
+00:07:44,547 --> 00:07:45,507
+[KAMINARI]
+That sounds like a name
+
+162
+00:07:45,548 --> 00:07:47,342
+right out of a fantasy game.
+
+163
+00:07:47,384 --> 00:07:49,803
+Why do we keep falling
+for Aizawa's little tricks?
+
+164
+00:07:49,844 --> 00:07:51,972
+I guess there's
+no use complaining.
+
+165
+00:07:52,013 --> 00:07:53,723
+Might as well get going.
+
+166
+00:07:53,765 --> 00:07:56,226
+[MINETA] I held it.
+Didn't spring a single leak.
+
+167
+00:07:56,267 --> 00:07:58,436
+Now to find a secluded spot.
+
+168
+00:07:58,478 --> 00:08:03,608
+[BEAST A growling]
+
+169
+00:08:03,650 --> 00:08:07,153
+[BOTH scream]
+We're all gonna die!
+
+170
+00:08:09,364 --> 00:08:11,533
+[BEAST A roars]
+
+171
+00:08:11,574 --> 00:08:13,535
+Please calm yourself
+my giant friend!
+
+172
+00:08:13,576 --> 00:08:15,328
+You don't wanna hurt them!
+
+173
+00:08:17,747 --> 00:08:20,000
+[IZUKU] Koda's power
+lets him control animals,
+
+174
+00:08:20,041 --> 00:08:22,544
+but is this one immune?
+
+175
+00:08:22,585 --> 00:08:26,548
+[IZUKU gasps]
+A dirt clod. I get it.
+
+176
+00:08:26,589 --> 00:08:28,591
+It's Pixie‐Bob's Quirk.
+
+177
+00:08:28,633 --> 00:08:30,677
+[PIXIE‐BOB humming]
+
+178
+00:08:30,719 --> 00:08:31,803
+[MANDALAY]
+Don't you think you've got them
+
+179
+00:08:31,845 --> 00:08:33,888
+on a pretty crazy
+schedule, Eraser?
+
+180
+00:08:33,930 --> 00:08:34,723
+Yeah.
+
+181
+00:08:34,764 --> 00:08:36,850
+We're hoping we get an
+entire second semester's
+
+182
+00:08:36,891 --> 00:08:38,476
+worth of knowledge in them here.
+
+183
+00:08:38,518 --> 00:08:40,937
+That's going to take an
+intense amount of work.
+
+184
+00:08:40,979 --> 00:08:43,231
+But the rewards'll be worth it.
+
+185
+00:08:43,273 --> 00:08:44,941
+They'll get permits
+to use their Quirks
+
+186
+00:08:44,983 --> 00:08:46,776
+if there's ever an emergency.
+
+187
+00:08:46,818 --> 00:08:48,737
+And provisional licenses
+that will allow them
+
+188
+00:08:48,778 --> 00:08:50,697
+to work as heroes.
+
+189
+00:08:50,739 --> 00:08:53,742
+Most importantly, with all
+the villainous activity
+
+190
+00:08:53,783 --> 00:08:55,285
+‐‐we've been tracking...
+‐‐[PIXIE‐BOB gasps]
+
+191
+00:08:55,326 --> 00:08:58,038
+...they need to be able
+to defend themselves.
+
+192
+00:08:59,080 --> 00:09:02,834
+[IZUKU]
+One For All Full Cowling!
+
+193
+00:09:06,963 --> 00:09:07,839
+[BEAST A growls]
+
+194
+00:09:07,881 --> 00:09:10,842
+Recipro burst!
+
+195
+00:09:10,884 --> 00:09:12,427
+[TENYA grunts]
+
+196
+00:09:12,469 --> 00:09:14,429
+I'll kill you!
+
+197
+00:09:14,471 --> 00:09:16,514
+[BEAST A roars]
+
+198
+00:09:17,932 --> 00:09:20,560
+[IZUKU]
+Smash!
+
+199
+00:09:20,602 --> 00:09:21,853
+[IZUKU grunts]
+
+200
+00:09:24,397 --> 00:09:27,358
+[AIZAWA] I trust that I can
+count on you, Pixie‐Bob.
+
+201
+00:09:27,400 --> 00:09:29,569
+[PIXIE‐BOB]
+Leave it to me!
+
+202
+00:09:29,611 --> 00:09:32,280
+Oh, wow, my fur's
+standing on end!
+
+203
+00:09:32,322 --> 00:09:34,282
+You guys took that beast
+down in seconds!
+
+204
+00:09:34,324 --> 00:09:35,366
+It was awesome.
+
+205
+00:09:35,408 --> 00:09:36,534
+They're relieved.
+
+206
+00:09:36,576 --> 00:09:38,369
+And I relieved all over myself.
+
+207
+00:09:38,411 --> 00:09:40,246
+You showed that
+thing who's boss.
+
+208
+00:09:40,288 --> 00:09:42,665
+We're not done.
+
+209
+00:09:42,707 --> 00:09:45,710
+[BEAST B growling]
+
+210
+00:09:48,046 --> 00:09:49,672
+[KAMINARI]
+Hey, come on.
+
+211
+00:09:49,714 --> 00:09:51,716
+Don't you think this
+is a little unfair?
+
+212
+00:09:51,758 --> 00:09:53,593
+What now? Do we run?
+
+213
+00:09:53,635 --> 00:09:54,594
+Not good.
+
+214
+00:09:54,636 --> 00:09:56,304
+If we don't make it to
+the camp fast enough,
+
+215
+00:09:56,346 --> 00:09:57,931
+then we won't get
+anything to eat.
+
+216
+00:09:57,972 --> 00:09:58,723
+He's right.
+
+217
+00:09:58,765 --> 00:10:00,683
+We have no choice but to
+cut through these woods
+
+218
+00:10:00,725 --> 00:10:02,519
+using the shortest
+possible route.
+
+219
+00:10:02,560 --> 00:10:03,728
+Ribbit.
+
+220
+00:10:05,271 --> 00:10:06,731
+All right.
+
+221
+00:10:06,773 --> 00:10:08,233
+Let's go, Class A!
+
+222
+00:10:08,274 --> 00:10:09,901
+[STUDENTS]
+Yeah!
+
+223
+00:10:11,694 --> 00:10:13,446
+[SHOJI]
+I spot three up ahead.
+
+224
+00:10:13,488 --> 00:10:15,240
+And two flanking each side.
+
+225
+00:10:15,281 --> 00:10:17,575
+So seven total. They're coming!
+
+226
+00:10:17,617 --> 00:10:20,203
+[SERO]
+All right. I've got this one!
+
+227
+00:10:24,374 --> 00:10:26,251
+[SERO]
+Sato! Kirishima!
+
+228
+00:10:27,502 --> 00:10:30,046
+[yells]
+
+229
+00:10:30,088 --> 00:10:35,468
+[KIRISHIMA yells]
+
+230
+00:10:35,510 --> 00:10:37,720
+[SATO grunts]
+
+231
+00:10:37,762 --> 00:10:39,264
+[TOKOYAMI]
+Dark Shadow!
+
+232
+00:10:39,305 --> 00:10:40,140
+[DARK SHADOW]
+Got it!
+
+233
+00:10:40,181 --> 00:10:41,599
+[BEAST D groans]
+
+234
+00:10:41,641 --> 00:10:43,434
+Aoyama. You're up!
+
+235
+00:10:44,561 --> 00:10:46,813
+Bonjour!
+
+236
+00:10:46,855 --> 00:10:48,273
+[BEAST D groans]
+
+237
+00:10:48,314 --> 00:10:50,191
+Damn it!
+
+238
+00:10:50,233 --> 00:10:52,277
+If it weren't for
+you monsters, my pants
+
+239
+00:10:52,318 --> 00:10:54,195
+wouldn't be wet right now!
+
+240
+00:10:54,237 --> 00:10:56,406
+[KAMINARI]
+Mineta, get outta here.
+
+241
+00:10:56,447 --> 00:10:58,658
+One point three million volts!
+
+242
+00:10:58,700 --> 00:11:01,077
+[BEAST E groans]
+
+243
+00:11:02,453 --> 00:11:04,497
+[giggling]
+
+244
+00:11:04,539 --> 00:11:06,583
+Lovely birds of the forest!
+
+245
+00:11:06,624 --> 00:11:09,669
+Remove this evil beast and
+restore peace to this wood!
+
+246
+00:11:09,711 --> 00:11:10,837
+[ASHIDO]
+Take that!
+
+247
+00:11:13,423 --> 00:11:15,592
+[HAGAKURE]
+Oh, no! I'm completely helpless!
+
+248
+00:11:15,633 --> 00:11:17,135
+It's gonna eat me!
+
+249
+00:11:17,177 --> 00:11:20,013
+[YAOYOROZU] Good, Hagakure.
+Perfect distraction.
+
+250
+00:11:21,139 --> 00:11:21,681
+[ASHIDO]
+And you!
+
+251
+00:11:21,723 --> 00:11:24,934
+[BEAST G groans]
+
+252
+00:11:24,976 --> 00:11:27,520
+[YAOYOROZU]
+Everyone, quick. Take cover now!
+
+253
+00:11:29,522 --> 00:11:31,774
+[ASHIDO]
+That was amazing, Momo!
+
+254
+00:11:33,735 --> 00:11:35,195
+[OCHACO]
+Tsu. He's all yours!
+
+255
+00:11:35,236 --> 00:11:36,738
+[TSUYU]
+Leave it to me.
+
+256
+00:11:41,034 --> 00:11:42,994
+‐‐[TSUYU] Ribbit!
+‐‐And now, Release!
+
+257
+00:11:44,412 --> 00:11:46,831
+I've spotted more
+of them closing in.
+
+258
+00:11:46,873 --> 00:11:49,042
+[roars]
+
+259
+00:11:49,083 --> 00:11:52,879
+[KATSUKI yells]
+You're in my way there, icy hot!
+
+260
+00:11:52,921 --> 00:11:54,255
+Then pick another route.
+
+261
+00:11:54,297 --> 00:11:56,216
+[BEAST J growling]
+
+262
+00:11:56,257 --> 00:11:58,927
+‐‐[BEAST K growling]
+‐‐[BEAST L screeches]
+
+263
+00:11:58,968 --> 00:12:00,678
+Midoriya. Now!
+
+264
+00:12:00,720 --> 00:12:01,763
+Right!
+
+265
+00:12:04,766 --> 00:12:05,642
+[PIXIE‐BOB]
+Hi‐ya!
+
+266
+00:12:05,683 --> 00:12:06,976
+So you're gangin' up on me now?
+
+267
+00:12:07,018 --> 00:12:07,936
+Well I can fight dirty, too!
+
+268
+00:12:07,977 --> 00:12:09,437
+[MANDALAY]
+Kota. We're leaving.
+
+269
+00:12:09,479 --> 00:12:11,898
+[PIXIE‐BOB]
+Scratch! Ha, ha!
+
+270
+00:12:11,940 --> 00:12:13,775
+Idiots.
+
+271
+00:12:13,816 --> 00:12:17,445
+[KOTA] How pointless.
+To wanna be a hero.
+
+272
+00:12:33,920 --> 00:12:36,714
+Ha! The litter is almost here.
+
+273
+00:12:36,756 --> 00:12:39,133
+That took a lot
+longer than expected.
+
+274
+00:12:39,175 --> 00:12:41,511
+[STUDENTS panting]
+
+275
+00:12:41,552 --> 00:12:43,972
+[panting]
+
+276
+00:12:45,723 --> 00:12:47,850
+[grunting]
+
+277
+00:12:47,892 --> 00:12:50,645
+[panting]
+
+278
+00:12:58,236 --> 00:13:00,405
+[STUDENTS sigh]
+
+279
+00:13:00,446 --> 00:13:02,573
+[SERO] You said it would
+only be, like, three hours!
+
+280
+00:13:02,615 --> 00:13:03,908
+[MANDALAY]
+I guess we timed it based on
+
+281
+00:13:03,950 --> 00:13:06,119
+how long it'd take us. Sorry!
+
+282
+00:13:06,160 --> 00:13:08,454
+Now you're braggin' about
+how much better you are?
+
+283
+00:13:08,496 --> 00:13:09,747
+That's so mean!
+
+284
+00:13:09,789 --> 00:13:12,208
+I'm starving. This is hell.
+
+285
+00:13:12,250 --> 00:13:13,960
+[PIXIE‐BOB] Meow, meow, meow,
+meow, meow, meow, meow!
+
+286
+00:13:14,002 --> 00:13:16,379
+I thought it would take
+you kids even longer.
+
+287
+00:13:16,421 --> 00:13:18,631
+But, you did much better
+against my dirt monsters
+
+288
+00:13:18,673 --> 00:13:20,758
+than I thought you would.
+
+289
+00:13:20,800 --> 00:13:22,844
+You guys were seriously great.
+
+290
+00:13:22,885 --> 00:13:25,722
+Especially the four of you!
+
+291
+00:13:25,763 --> 00:13:28,725
+It seems like you've had
+quite a bit of experience.
+
+292
+00:13:29,726 --> 00:13:31,477
+I call dibs on these kittens.
+
+293
+00:13:31,519 --> 00:13:33,646
+I'll groom them myself!
+
+294
+00:13:35,606 --> 00:13:39,027
+[AIZAWA] Mandalay. Has she
+always been like this?
+
+295
+00:13:39,068 --> 00:13:40,528
+It's gotten worse lately.
+
+296
+00:13:40,570 --> 00:13:42,071
+She's at the age to take a mate.
+
+297
+00:13:42,113 --> 00:13:44,866
+Uh. Speaking of people's ages‐‐
+
+298
+00:13:44,907 --> 00:13:47,035
+Choose your words
+carefully, boy.
+
+299
+00:13:47,076 --> 00:13:49,787
+[IZUKU] I've just been wondering
+since we got here earlier.
+
+300
+00:13:49,829 --> 00:13:52,123
+Who is that kid?
+What's he doing here?
+
+301
+00:13:52,165 --> 00:13:53,499
+Oh, this little guy?
+
+302
+00:13:53,541 --> 00:13:56,169
+He's my cousin's son.
+He lives with us now.
+
+303
+00:13:56,210 --> 00:13:57,545
+Don't be shy, Kota.
+
+304
+00:13:57,587 --> 00:13:59,047
+Say hi to everyone.
+
+305
+00:13:59,088 --> 00:14:01,883
+You're gonna be around
+them for the next week.
+
+306
+00:14:01,924 --> 00:14:03,551
+Hey there. My name's Midoriya.
+
+307
+00:14:03,593 --> 00:14:05,803
+I'm from the UA High
+School hero course.
+
+308
+00:14:05,845 --> 00:14:08,097
+It's nice to meet you!
+
+309
+00:14:08,139 --> 00:14:09,557
+[yelps]
+
+310
+00:14:09,599 --> 00:14:12,352
+What a low blow!
+You fiend of a child!
+
+311
+00:14:12,393 --> 00:14:15,229
+A punch to the scrotum
+is unforgiveable!
+
+312
+00:14:15,271 --> 00:14:18,900
+The last thing I want is to hang
+with some wannabe heroes.
+
+313
+00:14:18,941 --> 00:14:22,028
+[TENYA] "Wannabe"?!
+How old are you, kid?
+
+314
+00:14:22,070 --> 00:14:23,279
+That brat's got spunk.
+
+315
+00:14:23,321 --> 00:14:24,864
+He's like a mini version of you.
+
+316
+00:14:24,906 --> 00:14:26,240
+What are you talking about?
+
+317
+00:14:26,282 --> 00:14:27,367
+You need to shut your mouth
+
+318
+00:14:27,408 --> 00:14:29,410
+before I blast you
+all the way to hell.
+
+319
+00:14:29,452 --> 00:14:30,286
+Yeah, sure.
+
+320
+00:14:30,328 --> 00:14:31,746
+[AIZAWA]
+Enough playing around.
+
+321
+00:14:31,788 --> 00:14:33,790
+Get your stuff off the bus.
+
+322
+00:14:33,831 --> 00:14:35,208
+Once your bags
+are in your rooms,
+
+323
+00:14:35,249 --> 00:14:36,959
+we'll have dinner
+in the cafeteria.
+
+324
+00:14:37,001 --> 00:14:39,128
+After that, you can
+bathe and sleep.
+
+325
+00:14:39,170 --> 00:14:41,672
+Tomorrow your training
+starts in earnest.
+
+326
+00:14:41,714 --> 00:14:43,508
+You'd better get a move on.
+
+327
+00:14:47,428 --> 00:14:48,971
+It looks so good!
+
+328
+00:14:50,807 --> 00:14:51,599
+[SERO]
+So,
+
+329
+00:14:51,641 --> 00:14:54,435
+you girls got stuck in a tiny
+little bunk room, didn't ya?
+
+330
+00:14:54,477 --> 00:14:56,187
+Why? Is the guys'
+room really big?
+
+331
+00:14:56,229 --> 00:14:56,896
+[ASHIDO]
+Oh, yeah?
+
+332
+00:14:56,938 --> 00:14:59,232
+So, like, can I come
+check it out later or what?
+
+333
+00:14:59,273 --> 00:15:00,858
+[SERO]
+Sure! Whenever you want.
+
+334
+00:15:00,900 --> 00:15:03,277
+[KIRISHIMA] It's so good.
+I can't get enough!
+
+335
+00:15:03,319 --> 00:15:04,946
+[KAMINARI] My stomach
+is so happy right now.
+
+336
+00:15:04,987 --> 00:15:06,656
+It's as good as
+Lunch Rush's food!
+
+337
+00:15:06,697 --> 00:15:08,282
+I think I might eat
+until I burst.
+
+338
+00:15:08,324 --> 00:15:10,243
+[KAMINARI gasps]
+I smell beef.
+
+339
+00:15:10,284 --> 00:15:11,911
+Hey, wait, you got
+meat over there?
+
+340
+00:15:11,953 --> 00:15:12,703
+[PIXIE‐BOB]
+Yeah.
+
+341
+00:15:12,745 --> 00:15:16,791
+Jeez, it's like you guys haven't
+eaten in a week or something.
+
+342
+00:15:16,833 --> 00:15:19,460
+Anyway, today's the only time
+we'll be doing this for you.
+
+343
+00:15:19,502 --> 00:15:20,962
+So make sure you kids enjoy it.
+
+344
+00:15:21,003 --> 00:15:22,547
+[KAMINARI, KIRISHIMA]
+Thank you!
+
+345
+00:15:22,588 --> 00:15:23,673
+[MANDALAY]
+Hey, Kota!
+
+346
+00:15:23,714 --> 00:15:25,758
+Can you bring me
+those vegetables?
+
+347
+00:15:36,561 --> 00:15:39,147
+[MINETA] The food and stuff
+is fine, but to be honest,
+
+348
+00:15:39,188 --> 00:15:41,107
+I'm hungry for somethin' else.
+
+349
+00:15:41,149 --> 00:15:42,859
+Just one little wall.
+
+350
+00:15:42,900 --> 00:15:44,485
+A few pieces of wood.
+
+351
+00:15:44,527 --> 00:15:46,863
+And heaven's waiting
+on the other side.
+
+352
+00:15:46,904 --> 00:15:51,367
+A bath full of boobs and babes
+ready to be seen by yours truly.
+
+353
+00:15:51,409 --> 00:15:52,243
+[KAMINARI sighs]
+
+354
+00:15:52,285 --> 00:15:55,121
+Are you over there talking
+to yourself again, Mineta?
+
+355
+00:15:55,163 --> 00:15:56,831
+[ASHIDO]
+This feels amazing!
+
+356
+00:15:56,873 --> 00:15:59,125
+[JIRO] I'm so glad they've
+got a hot springs here!
+
+357
+00:15:59,167 --> 00:16:02,044
+Bathe, my angels.
+
+358
+00:16:02,086 --> 00:16:04,255
+How stupid of them not
+to stagger the times
+
+359
+00:16:04,297 --> 00:16:07,550
+that we'd be naked
+next to each other.
+
+360
+00:16:07,592 --> 00:16:10,094
+I hope they never learn
+from their mistakes.
+
+361
+00:16:10,136 --> 00:16:11,721
+It's too much for him.
+
+362
+00:16:11,762 --> 00:16:13,973
+You're to stop this
+at once, Mineta.
+
+363
+00:16:14,015 --> 00:16:15,349
+What you're doing is demeaning.
+
+364
+00:16:15,391 --> 00:16:17,185
+For both the girls and yourself.
+
+365
+00:16:17,226 --> 00:16:19,187
+It's shameful behavior!
+
+366
+00:16:20,605 --> 00:16:23,608
+Now I know why
+I have this Quirk.
+
+367
+00:16:23,649 --> 00:16:26,903
+[MINETA] It's because walls
+are meant to be climbed.
+
+368
+00:16:26,944 --> 00:16:30,781
+I'm coming for you,
+ladies, Plus Ultra!
+
+369
+00:16:30,823 --> 00:16:32,158
+All that Quirk training.
+
+370
+00:16:32,200 --> 00:16:34,035
+All the times I almost died.
+
+371
+00:16:34,076 --> 00:16:38,247
+It was to prepare for
+this shining momen‐‐!
+
+372
+00:16:38,289 --> 00:16:39,999
+[KOTA]
+Before you become a hero,
+
+373
+00:16:40,041 --> 00:16:43,127
+you should learn
+how to be a good human.
+
+374
+00:16:43,169 --> 00:16:45,671
+I'll get you for this!
+
+375
+00:16:45,713 --> 00:16:47,757
+[MINETA, TENYA yell]
+
+376
+00:16:47,798 --> 00:16:49,425
+‐‐[splash]
+‐‐[KOTA] Hmph.
+
+377
+00:16:49,467 --> 00:16:51,969
+[TSUYU] Mineta really is
+the worst, isn't he?
+
+378
+00:16:52,011 --> 00:16:54,222
+[ASHIDO]
+Thanks so much, Kota, babe!
+
+379
+00:16:54,263 --> 00:16:56,974
+We owe you one!
+
+380
+00:16:57,016 --> 00:16:57,808
+[yelps]
+
+381
+00:16:57,850 --> 00:16:58,518
+[ALL gasp]
+
+382
+00:16:58,559 --> 00:17:00,269
+[yelps, screams]
+
+383
+00:17:00,311 --> 00:17:01,479
+[IZUKU]
+Look out!
+
+384
+00:17:06,984 --> 00:17:07,944
+[MANDALAY]
+The rush from the fall
+
+385
+00:17:07,985 --> 00:17:11,739
+likely caused him
+to faint. Thank you.
+
+386
+00:17:11,781 --> 00:17:14,784
+Eraser warned me one of you
+boys was a little girl crazy,
+
+387
+00:17:14,825 --> 00:17:17,662
+so I stationed Kota
+up there to keep watch.
+
+388
+00:17:17,703 --> 00:17:20,915
+I suppose that's the danger
+of teaching kids your age.
+
+389
+00:17:20,957 --> 00:17:23,751
+Well, anyway. I'm just
+glad he's all right.
+
+390
+00:17:23,793 --> 00:17:26,837
+You must've moved
+pretty fast to catch him.
+
+391
+00:17:26,879 --> 00:17:28,464
+[KOTA]
+The last thing I want is to hang
+
+392
+00:17:28,506 --> 00:17:31,092
+with some wannabe heroes.
+
+393
+00:17:34,345 --> 00:17:38,766
+[IZUKU] Um. He doesn't like
+heroes very much, does he?
+
+394
+00:17:38,808 --> 00:17:40,601
+I admit, that's weird to me.
+
+395
+00:17:40,643 --> 00:17:43,062
+Most everyone I know
+wants to be one.
+
+396
+00:17:43,104 --> 00:17:45,147
+It's... my dream.
+
+397
+00:17:45,189 --> 00:17:47,984
+So, it's just wild to
+think that a kid his age
+
+398
+00:17:48,025 --> 00:17:51,737
+is against heroes.
+Hates them, even.
+
+399
+00:17:51,779 --> 00:17:54,907
+How observant. Of course,
+he isn't alone.
+
+400
+00:17:54,949 --> 00:17:59,453
+There are many in our society
+who don't approve of us.
+
+401
+00:17:59,495 --> 00:18:01,622
+If he'd had a normal childhood,
+
+402
+00:18:01,664 --> 00:18:04,834
+maybe he would've admired heroes
+like you did growing up.
+
+403
+00:18:04,875 --> 00:18:06,919
+[gasps] What happened?
+
+404
+00:18:06,961 --> 00:18:09,213
+[PIXIE‐BOB]
+It was Mandalay's cousins.
+
+405
+00:18:09,255 --> 00:18:13,551
+Kota's parents, that is.
+They were heroes, too.
+
+406
+00:18:13,593 --> 00:18:15,219
+But they were murdered.
+
+407
+00:18:15,261 --> 00:18:16,762
+[gasps]
+
+408
+00:18:16,804 --> 00:18:19,265
+It was a villain.
+Two years back.
+
+409
+00:18:19,307 --> 00:18:21,934
+Kota was still so small.
+
+410
+00:18:21,976 --> 00:18:24,645
+They were killed while
+protecting citizens.
+
+411
+00:18:24,687 --> 00:18:28,357
+Perhaps the most respectable
+way for any hero to die.
+
+412
+00:18:28,399 --> 00:18:30,192
+But...
+
+413
+00:18:30,234 --> 00:18:33,446
+[KOTA]
+Papa. Mama.
+
+414
+00:18:34,780 --> 00:18:37,158
+[MANDALAY] How do you even
+begin to explain to a child
+
+415
+00:18:37,199 --> 00:18:40,578
+that his parents died
+honorable deaths?
+
+416
+00:18:40,620 --> 00:18:44,206
+They were his entire
+world. Everything.
+
+417
+00:18:44,248 --> 00:18:48,419
+But to him, his parents
+had left him behind.
+
+418
+00:18:48,461 --> 00:18:50,588
+And all the while,
+they were being praised.
+
+419
+00:18:50,630 --> 00:18:54,884
+Because... their sacrefice
+was such a noble one.
+
+420
+00:18:54,925 --> 00:18:56,802
+Honestly, he doesn't
+seem to like us
+
+421
+00:18:56,844 --> 00:19:00,723
+that much either. We're
+heroes, like they were.
+
+422
+00:19:00,765 --> 00:19:02,433
+I'm sure he feels like
+he's stuck here
+
+423
+00:19:02,475 --> 00:19:04,769
+because he has
+nowhere else to go.
+
+424
+00:19:04,810 --> 00:19:08,272
+Heroes just don't make
+any sense to Kota.
+
+425
+00:19:08,314 --> 00:19:10,733
+After all, if his parents
+hadn't been heroes,
+
+426
+00:19:10,775 --> 00:19:12,985
+they would still be here.
+
+427
+00:19:13,027 --> 00:19:14,362
+[SHIGARAKI]
+He's why these morons
+
+428
+00:19:14,403 --> 00:19:16,614
+are able to smile thoughtlessly!
+
+429
+00:19:16,656 --> 00:19:21,035
+Because that garbage pro
+is smiling thoughtlessly, too!
+
+430
+00:19:21,077 --> 00:19:23,204
+[IZUKU] I'd heard so many
+different people talking about
+
+431
+00:19:23,245 --> 00:19:25,373
+heroes over the last few months.
+
+432
+00:19:25,414 --> 00:19:28,334
+Had listened to so many
+different viewpoints.
+
+433
+00:19:28,376 --> 00:19:31,545
+It would be irresponsible
+to shrug them off.
+
+434
+00:19:31,587 --> 00:19:34,715
+And yet, in that moment,
+I had no reply.
+
+435
+00:19:41,806 --> 00:19:43,933
+[yawning]
+
+436
+00:19:43,974 --> 00:19:45,685
+[AIZAWA]
+Good morning, class.
+
+437
+00:19:45,726 --> 00:19:47,186
+Today, we begin a training camp
+
+438
+00:19:47,228 --> 00:19:49,605
+that will increase
+your strength.
+
+439
+00:19:49,647 --> 00:19:52,024
+Our goal is to increase
+your skills exponentially,
+
+440
+00:19:52,066 --> 00:19:54,944
+so that each of you earns
+a provisional license.
+
+441
+00:19:54,985 --> 00:19:56,696
+This will allow you
+to face the dangers
+
+442
+00:19:56,737 --> 00:19:59,156
+that continue to fester
+in the darkness.
+
+443
+00:19:59,198 --> 00:20:03,452
+Proceed carefully.
+Look alive, Bakugo.
+
+444
+00:20:03,494 --> 00:20:05,329
+Try throwing that for me.
+
+445
+00:20:05,371 --> 00:20:07,998
+Yeah, sure. Like in
+the fitness test.
+
+446
+00:20:08,040 --> 00:20:09,208
+[AIZAWA]
+That's right.
+
+447
+00:20:09,250 --> 00:20:13,045
+When you first started school,
+your record was 705.2 meters.
+
+448
+00:20:13,087 --> 00:20:14,380
+Let's see if you've improved.
+
+449
+00:20:14,422 --> 00:20:17,258
+[ASHIDO] Oh, I get it!
+We're checking our progress.
+
+450
+00:20:17,299 --> 00:20:19,427
+[SERO] A lot's happened to
+us the last three months.
+
+451
+00:20:19,468 --> 00:20:21,595
+Maybe he can throw it
+a whole mile now!
+
+452
+00:20:21,637 --> 00:20:24,515
+[KIRISHIMA]
+C'mon, get it, Bakugo!
+
+453
+00:20:24,557 --> 00:20:28,144
+I've got this. No one blink.
+
+454
+00:20:28,185 --> 00:20:30,563
+Go to hell!
+
+455
+00:20:33,023 --> 00:20:34,650
+[IZUKU]
+"Go to hell"?
+
+456
+00:20:40,281 --> 00:20:42,575
+[AIZAWA]
+That was 709.6 meters.
+
+457
+00:20:42,616 --> 00:20:43,909
+[KATSUKI grunts]
+
+458
+00:20:43,951 --> 00:20:47,037
+[SERO]
+That's it? Kinda disappointing.
+
+459
+00:20:49,749 --> 00:20:51,959
+[AIZAWA] You've had
+a single semester at UA,
+
+460
+00:20:52,001 --> 00:20:53,586
+and due to your
+various experiences,
+
+461
+00:20:53,627 --> 00:20:55,838
+all of you have
+definitely improved.
+
+462
+00:20:55,880 --> 00:20:57,381
+But those improvements
+have mostly been
+
+463
+00:20:57,423 --> 00:21:00,259
+limited to mental prowess
+and technical skill.
+
+464
+00:21:00,301 --> 00:21:03,637
+With a slight increase in
+stamina thrown in along the way.
+
+465
+00:21:03,679 --> 00:21:06,307
+Your Quirks really haven't
+grown that much stronger.
+
+466
+00:21:06,348 --> 00:21:07,975
+Not on a fundamental level.
+
+467
+00:21:08,017 --> 00:21:09,101
+[gasps]
+
+468
+00:21:09,143 --> 00:21:10,686
+[AIZAWA] That's why we're
+now going to focus
+
+469
+00:21:10,728 --> 00:21:12,730
+on improving your powers.
+
+470
+00:21:15,024 --> 00:21:19,153
+[AIZAWA] This'll be so hard,
+you'll feel like you're dying.
+
+471
+00:21:19,195 --> 00:21:21,572
+Let's hope you all survive.
+
+472
+00:22:54,582 --> 00:22:57,710
+[TOGA] Hey, hey! Special
+delivery from Tomura!
+
+473
+00:22:57,751 --> 00:22:59,587
+He wants us to bring
+these along when we go,
+
+474
+00:22:59,628 --> 00:23:02,464
+so I'm guessing there's
+enough for everyone.
+
+475
+00:23:02,506 --> 00:23:05,509
+[MUSCULAR]
+C'mon. I'm ready.
+
+476
+00:23:05,551 --> 00:23:07,553
+Let's hurry up and do this.
+
+477
+00:23:07,595 --> 00:23:09,430
+[MUSTARD]
+It's still too early.
+
+478
+00:23:09,471 --> 00:23:10,890
+Besides, don't forget,
+
+479
+00:23:10,931 --> 00:23:13,058
+he said we shouldn't
+do anything flashy.
+
+480
+00:23:13,100 --> 00:23:14,059
+[DABI]
+Yeah.
+
+481
+00:23:14,101 --> 00:23:17,521
+He acted like a spoiled
+little brat when we first met.
+
+482
+00:23:17,563 --> 00:23:22,109
+But suddenly, he's begun
+to take charge.
+
+483
+00:23:22,151 --> 00:23:24,737
+This is gonna be nothing
+more than a warning shot.
+
+484
+00:23:24,778 --> 00:23:26,530
+We'll pull those
+false heroes down
+
+485
+00:23:26,572 --> 00:23:29,366
+from their shining pedestals.
+
+486
+00:23:29,408 --> 00:23:30,784
+And in doing so, we'll create
+
+487
+00:23:30,826 --> 00:23:33,412
+a bright new future
+for this world.
+
+488
+00:23:36,206 --> 00:23:37,499
+[IZUKU]
+Here's the preview!
+
+489
+00:23:37,541 --> 00:23:39,752
+It turns out that developing
+our individual Quirks
+
+490
+00:23:39,793 --> 00:23:42,171
+is this summer training
+camp's main focus.
+
+491
+00:23:42,212 --> 00:23:44,632
+To do that, we've got to
+push ourselves to the limit.
+
+492
+00:23:44,673 --> 00:23:47,426
+It's the only way we can
+hope to become pros!
+
+493
+00:23:47,468 --> 00:23:49,345
+But Kota still scoffs at us.
+
+494
+00:23:49,386 --> 00:23:50,971
+Even though he's part
+of Mandalay's family,
+
+495
+00:23:51,013 --> 00:23:52,681
+he doesn't like heroes.
+
+496
+00:23:52,723 --> 00:23:56,185
+I wonder what happened in his
+past to make him feel that way.
+
+497
+00:23:56,226 --> 00:23:57,978
+Next time: "Kota."
+
+498
+00:23:58,020 --> 00:24:00,439
+I can't wait to find out what
+the Pussycats' test of courage
+
+499
+00:24:00,481 --> 00:24:02,232
+has in store for us!
+
+500
+00:24:02,274 --> 00:24:05,444
+[IZUKU]
+Go beyond! Plus Ultra!
+
+501
+00:24:06,305 --> 00:25:06,674
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
