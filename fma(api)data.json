@@ -3,10 +3,10 @@
  ["https://i1.wp.com/shuffleonline.net/wp-content/uploads/2015/07/fullmetal-alchemist-brotherhood.jpg",
  "https://gamersguildblog.files.wordpress.com/2018/05/fullmetal-alchemist-brotherhood.jpg?w=656&h=300&crop=1",
  "http://www.animationscoop.com/wp-content/uploads/2018/11/AMA2.jpg"],
- "episodesno": [62], 
+  
 "name": "Fullmetal Alchemist: Brotherhood ", 
 "rating": "9.1", 
 "description":"Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.",
- "episodes": [],
- "seasonno": 1, 
+ "episodes": [{},{}],
+
 "tags": ["Anime", "Demon Slayer", "2021", "Oscarnominated"]}
